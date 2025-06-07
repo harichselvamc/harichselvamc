@@ -26,11 +26,11 @@ India
 ⚡ Fun Fact: I turn data into insights and ☕ into code
 
 ---
-
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harichselvamc)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harichselvamc)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/harichselvam/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harichselvamc)&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@harichselvamc)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/harichselvam/)&nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+917598068106)
 
 ---
