@@ -70,15 +70,19 @@ India
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=harichselvamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=harichselvamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harichselvamc&theme=ayu_mirage)
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harichselvamc&theme=dark&hide_border=false)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harichselvamc&theme=ayu_mirage)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harichselvamc&theme=ayu_mirage&utcOffset=8)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harichselvamc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=harichselvamc&icon=0&color=1)](https://visitcount.itsvg.in)
-
----
 
 ## 💰 Support Me
 
