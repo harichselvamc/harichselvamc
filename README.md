@@ -9,17 +9,7 @@ With strong proficiency in **Python**, **Java**, **R**, and web development tech
 
 ---
 
-### 🔍 Highlights
-- 🧠 Built projects like **Heart Failure Prediction** and **Language Translator** using Python  
-- 📊 Completed virtual experience programs with **Visa**, **KPMG**, and **TATA** via Forage  
-- 🎓 Certified in **Data Analysis**, **Scientific Computing**, and **Blockchain** from FreeCodeCamp, Great Learning, and Academy Europe  
-- 💡 Strong problem-solving skills with a focus on clean and efficient code  
-- 🧩 Open to collaborations on **AI/Data Science Projects**
-
----
-
-### 🌍 Location: 
-India  
+### 🌍 Location: India  
 📧 Email: [harichselvamc@gmail.com](mailto:harichselvamc@gmail.com)  
 🧠 Currently Learning: Innovative Programming  
 🤝 Looking to Collaborate On: AI/Data Science Projects  
